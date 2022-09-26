@@ -1,4 +1,4 @@
 # FPV
 
-calculator //
-$/sum_{x}^{y} a[i]$
+calculator \\
+${\sum}_{x}^{y} a[i]$
