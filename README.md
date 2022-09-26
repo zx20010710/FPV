@@ -1,3 +1,3 @@
 # FPV
 
-calculator $\sum_x^y a[i]$
+calculator $\sum_{x}^{y} a[i]$
